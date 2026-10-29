@@ -1,0 +1,101 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(219, 248, 221);
+    color: rgb(0, 0, 0);
+    margin: auto;
+    padding: 0 5rem;
+}
+
+.page-wrapper {
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main {
+    background-color: #bff9c0;
+    text-align: center;
+}
+
+main img {
+    display: block;
+    margin: 0 auto;
+}
+
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+    background-color: rgb(144, 242, 172);
+}
+
+.Logo-Box img {
+    height: 40px;
+    width: auto;
+    display: block;
+}
+
+.Navigation-Area {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.Navigation-Links {
+    display: flex;
+    gap: 20px; 
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    padding: 30px 50px; 
+    text-align: left; 
+}
+
+.contact-container img {
+    display: block;
+    margin: 0;
+    max-width: 50%;
+    height: auto;
+}
+
+.products-top {
+    padding: 40px 20px 20px 20px;
+    text-align: center;
+}
+
+main .products-top img {
+    width: auto;
+    height: 100%;
+    max-height: 300px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.products-middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 25px;
+    padding: 0 20px 40px 20px;
+}
+
+.product1, .product2, .product3 {
+    flex: 1;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 25px 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+main .products-middle img {
+    width: 100%;
+    height: 180px;
+    border-radius: 6px;
+    margin: 0 0 15px 0;
+}
