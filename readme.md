@@ -4,9 +4,12 @@
 
 ## My links at github.com
 
-- HTML and CSS: https://users.metropolia.fi/~username/html-css/
-- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
-- JS module 3: https://users.metropolia.fi/~username/js-3/
+- HTML and CSS: https://github.com/sam-henderson26/webdev-assignments/tree/main/html-css
+
+- JS modules 1 and 2: https://github.com/sam-henderson26/webdev-assignments/tree/main/js-1-2
+
+- JS module 3: https://github.com/sam-henderson26/webdev-assignments/tree/main/js-3
+
 - JS module 4: https://users.metropolia.fi/~username/js-4/
 - JS module 5: https://users.metropolia.fi/~username/js-5/
 
