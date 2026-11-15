@@ -31,18 +31,6 @@ Add notes about any problems or extra features here.
 
 <!-- metropolia:progress:start -->
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Completed exercises
 
 _This list is updated automatically by the Metropolia ICT extension._
@@ -67,5 +55,13 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 3. Dogs in reverse alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-3/assignment-3.js`)
 - 4. Largest first: ✔ completed, 2/2 test points (`js-3/assignment-4/assignment-4.js`)
 - 5. Stop at a repeated number: ✔ completed, 2/2 test points (`js-3/assignment-5/assignment-5.js`)
+
+### JS module 4: DOM and events (10 / 35 points)
+
+- 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
+- 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
 
 <!-- metropolia:progress:end -->
