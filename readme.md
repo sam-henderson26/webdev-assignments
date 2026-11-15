@@ -10,7 +10,8 @@
 
 - JS module 3: https://github.com/sam-henderson26/webdev-assignments/tree/main/js-3
 
-- JS module 4: https://users.metropolia.fi/~username/js-4/
+- JS module 4: https://github.com/sam-henderson26/webdev-assignments/tree/main/js-4
+
 - JS module 5: https://users.metropolia.fi/~username/js-5/
 
 
