@@ -12,6 +12,8 @@
 
 - JS module 4: https://github.com/sam-henderson26/webdev-assignments/tree/main/js-4
 
+- Python Flask server assignment: https://github.com/sam-henderson26/webdev-assignments/tree/main/flask
+
 - JS module 5: https://users.metropolia.fi/~username/js-5/
 
 
