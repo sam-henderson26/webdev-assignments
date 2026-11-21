@@ -65,4 +65,8 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
 - 7. Hover effect: ✔ completed, 2/2 test points (`js-4/t7/7.js`)
 
+### Python Flask server (4 / 20 points)
+
+- 1. Prime number service: ✔ completed, 1/1 test points (`flask/`)
+
 <!-- metropolia:progress:end -->
